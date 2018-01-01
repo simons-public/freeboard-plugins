@@ -24,14 +24,14 @@ widgets, colorthreshold.js and colorvalue.js.
 __colorthreshold.js__ lets you set a computed value, good/bad values, and customize
 good/warning/bad colors. The grading of good and bad values can be inverted.
 
-![example](docs/ups-cpu-example.png)
-![example](docs/over-limit-example.png)
+![example](doc/ups-cpu-example.png)
+![example](doc/over-limit-example.png)
 
 __colorvalue.js__ lets you set a computed value, good value, and customise good/bad
 colors.
 
-![example](docs/status-text-example.png)
-![example](docs/failed-example.png)
+![example](doc/status-text-example.png)
+![example](doc/failed-example.png)
 
 
 
